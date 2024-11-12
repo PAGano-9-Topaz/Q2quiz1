@@ -1,0 +1,59 @@
+.LOVETHE {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+	animation: animate__backInDown;
+ 	animation-duration: 2s;
+ 	display: inline;
+	font-family: "Nova Mono", monospace;
+	padding: auto;
+	text-align: center;
+}
+
+.Sillychurl {
+	border: 10px grey solid;
+	border-radius: 20px;
+	width: 40%;
+}
+
+.Sillychurl:hover {
+	width: 45%;
+}
+
+.con2 {
+	text-align: center;
+}
+
+table th {
+    width: auto !important;
+}
+
+table td {
+    width: auto !important;
+}
+
+.hello2 {
+
+}
+
+.hello3 {
+	padding: 10px;
+}
+
+table {
+    width: 80%;
+}
+
+.h1r {
+	font-size: 30px;
+	padding: auto;
+	margin:auto;
+}
+
+.footer {
+	text-align: center;
+	background-color: grey;
+	border: solid black 4px;
+
+}
